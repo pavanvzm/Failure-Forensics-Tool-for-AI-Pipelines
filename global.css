@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  :root { --background: #0f172a; --foreground: #f8fafc; }
+  Page { background-color: #0f172a; color: #f8fafc; }
+}
